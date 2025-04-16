@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Aua(logo night).png</file>
+        <file>images/repeat.svg</file>
+        <file>images/0%.svg</file>
+        <file>images/1-32%.svg</file>
+        <file>images/33-67%.svg</file>
+        <file>images/100%.svg</file>
+        <file>images/next.svg</file>
+        <file>images/pause.svg</file>
+        <file>images/play.svg</file>
+        <file>images/random.svg</file>
+        <file>images/reverse.svg</file>
+        <file>images/stop.svg</file>
+        <file>images/tagEdit.svg</file>
+        <file>images/logo.svg</file>
+        <file>images/logo1.svg</file>
+        <file>images/randomoff.svg</file>
+        <file>images/repeaton.svg</file>
+        <file>images/-.svg</file>
+        <file>images/+.svg</file>
+        <file>images/spotify.svg</file>
+        <file>images/Yandex_Music.svg</file>
+        <file>images/VK_Music.svg</file>
+        <file>images/radio_icon.svg</file>
+    </qresource>
+    <qresource prefix="/themes">
+        <file>themes/Cstartpage.qss</file>
+        <file>themes/DeepBox.qss</file>
+        <file>themes/Integrid.qss</file>
+        <file>themes/Irrorater.qss</file>
+        <file>themes/Obit.qss</file>
+        <file>themes/PicPax.qss</file>
+        <file>themes/SyNet.qss</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>text/about.txt</file>
+    </qresource>
+</RCC>
