@@ -1,3 +1,2 @@
 # Aua
-# Aua
-# Aua
+My thesis transferred from notabug
